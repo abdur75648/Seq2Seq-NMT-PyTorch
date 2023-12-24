@@ -1,0 +1,7 @@
+torch
+tensorboard
+sentencepiece
+docopt
+nltk
+sacrebleu
+tqdm
